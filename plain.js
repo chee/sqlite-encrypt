@@ -38,8 +38,18 @@ dbplain.serialize(() => {
   })
 })
 
+// 10
+// node plain.js  0.10s user 0.03s system 98% cpu 0.129 total
+// node plain.js  0.10s user 0.03s system 100% cpu 0.130 total
+// node plain.js  0.10s user 0.03s system 99% cpu 0.134 total
+
+// 10,000
 // node plain.js  0.57s user 2.99s system 67% cpu 5.283 total
 // node plain.js  0.58s user 5.28s system 76% cpu 7.685 total
 // node plain.js  0.58s user 4.14s system 72% cpu 6.519 total
 // node plain.js  0.57s user 2.86s system 66% cpu 5.148 total
 // node plain.js  0.58s user 3.09s system 66% cpu 5.491 total
+
+// 20,000
+// node plain.js  1.08s user 8.04s system 70% cpu 12.902 total
+// node plain.js  1.14s user 20.00s system 83% cpu 25.181 total
