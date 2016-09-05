@@ -32,17 +32,17 @@ dbenc.serialize(() => {
 })
 
 // 10
-// node enc3.js  0.15s user 0.09s system 100% cpu 0.240 total
-// node enc3.js  0.15s user 0.03s system 100% cpu 0.179 total
-// node enc3.js  0.15s user 0.03s system 99% cpu 0.183 total
+// node enc-dec-crypto-js.js  0.15s user 0.09s system 100% cpu 0.240 total
+// node enc-dec-crypto-js.js  0.15s user 0.03s system 100% cpu 0.179 total
+// node enc-dec-crypto-js.js  0.15s user 0.03s system 99% cpu 0.183 total
 
 // 10,000
-// node enc3.js  7.94s user 3.66s system 84% cpu 13.766 total
-// node enc3.js  8.04s user 4.66s system 83% cpu 15.122 total
-// node enc3.js  7.72s user 3.41s system 85% cpu 13.094 total
-// node enc3.js  7.67s user 5.72s system 87% cpu 15.338 total
-// node enc3.js  7.53s user 9.03s system 88% cpu 18.643 total
+// node enc-dec-crypto-js.js  7.94s user 3.66s system 84% cpu 13.766 total
+// node enc-dec-crypto-js.js  8.04s user 4.66s system 83% cpu 15.122 total
+// node enc-dec-crypto-js.js  7.72s user 3.41s system 85% cpu 13.094 total
+// node enc-dec-crypto-js.js  7.67s user 5.72s system 87% cpu 15.338 total
+// node enc-dec-crypto-js.js  7.53s user 9.03s system 88% cpu 18.643 total
 
 // 20,000
-// node enc3.js  15.31s user 10.22s system 86% cpu 29.537 total
-// node enc3.js  14.67s user 7.67s system 84% cpu 26.328 total
+// node enc-dec-crypto-js.js  15.31s user 10.22s system 86% cpu 29.537 total
+// node enc-dec-crypto-js.js  14.67s user 7.67s system 84% cpu 26.328 total

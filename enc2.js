@@ -38,8 +38,8 @@ dbenc.serialize(() => {
   })
 })
 
-// node enc2.js  0.96s user 3.48s system 67% cpu 6.585 total
-// node enc2.js  0.91s user 3.21s system 68% cpu 5.993 total
-// node enc2.js  0.92s user 3.29s system 69% cpu 6.105 total
-// node enc2.js  0.95s user 4.70s system 73% cpu 7.690 total
-// node enc2.js  0.91s user 3.36s system 69% cpu 6.166 total
+// node enc-dec-browserify.js  0.96s user 3.48s system 67% cpu 6.585 total
+// node enc-dec-browserify.js  0.91s user 3.21s system 68% cpu 5.993 total
+// node enc-dec-browserify.js  0.92s user 3.29s system 69% cpu 6.105 total
+// node enc-dec-browserify.js  0.95s user 4.70s system 73% cpu 7.690 total
+// node enc-dec-browserify.js  0.91s user 3.36s system 69% cpu 6.166 total
